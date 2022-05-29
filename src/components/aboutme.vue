@@ -7,18 +7,16 @@
     </div>
 
     <p class="text-lg mx-14 xl:mx-44 md:mx-20 sm:mx-32 mt-4 pb-4 text-gray-300">
-      Hi, my name is Jakub, I'm 17 years old and I'm from the Czech Republic. My
-      first encounter with programming was in 2019. It was a year when I was
-      very dedicated to creating Minecraft servers. My first programming
-      language was JavaScript when I started making discord bots in it. After a
-      few months I also got into Java in which I made plugins for Minecraft.
-      Then I tried web development and that's what I liked the most. So I
-      started with HTML and CSS, then I added JavaScript and after another year
-      I started working with the VUEJS framework. Currently I'm also trying
-      mobile app development using FLUTTER and .dart. I have pretty big goals
-      when it comes to programming and would like to start working as a WEB
-      DEVELOPER in 2022 and be able to travel the world and work at the same
-      time.
+      Hi, my name is Jakub, I am 18 years old, I come from the Czech Republic
+      and I enjoy creating websites. My first encounter with any code was in
+      early 2019 and it was JavaScript, then I spent a year creating discord
+      robots. At the end of 2019, covid and quarantine came and that was the
+      point where I started creating websites where I also stayed. I started
+      like everyone else with HTML and CSS, and then came the slow addition of
+      JavaScript. I'm currently making pages using a Front-End Framework called
+      Vue. since 2019, I have learned to make great use of GOOGLE and have
+      learned to deal with cold head problems. It moved me a lot and I'm glad I
+      got to it.
     </p>
   </div>
 </template>

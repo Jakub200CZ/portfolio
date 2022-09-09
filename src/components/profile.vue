@@ -3,7 +3,8 @@
   <div class="lg:pt-40 sm:pt-20">
     <img
       class="w-60 rounded-full mx-auto p-10 filter drop-shadow-2xl"
-      src="https://i.ibb.co/bR9h4n7/img.jpg"
+      src="../assets/img.jpeg"
+      alt="ProfilePic"
     />
 
     <h1 class="text-center text-4xl font-bold">Jakub Sedláček</h1>
@@ -22,6 +23,7 @@
       <a
         class="text-yellow-400 hover:text-yellow-200 duration-300"
         href="#aboutme"
+        rel="noopener"
         >More...</a
       >
     </p>

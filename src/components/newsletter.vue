@@ -16,6 +16,7 @@
     <a
       href="https://www.getrevue.co/profile/jakubsedlacek04news"
       target="_blank"
+      rel="noopener"
       ><button class="learn-more">
         <span class="circle" aria-hidden="true">
           <span class="icon arrow"></span>

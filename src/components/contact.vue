@@ -21,6 +21,7 @@
         duration-300
       "
       href="#top"
+      rel="noopener"
       >Contact Me</a
     >
   </div>

@@ -7,6 +7,7 @@
       <a
         class="text-yellow-400 hover:text-yellow-200 duration-300 opacity-50"
         href="#top"
+        rel="noopener"
       >
         Jakub Sedláček</a
       >

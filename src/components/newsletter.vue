@@ -7,21 +7,16 @@
     </div>
 
     <p class="text-lg mt-4 pb-4 text-gray-300">
-      If you subscribe to my NEWSLETTER you will receive <br />
-      interesting links, information about what I was interested <br />in that
-      week and also tips and tricks about programming<br />
-      and finally you will always receive a motivational quote.
+      The newsletter is acutely out of order, <br>thank you for your understanding,
+      we will resume it soon
     </p>
 
-    <a
-      href="https://www.getrevue.co/profile/jakubsedlacek04news"
-      target="_blank"
-      rel="noopener"
+    <a href="#" target="_blank" rel="noopener"
       ><button class="learn-more">
         <span class="circle" aria-hidden="true">
           <span class="icon arrow"></span>
         </span>
-        <span class="button-text">Subscribe</span>
+        <span class="button-text">Soon</span>
       </button></a
     >
   </div>

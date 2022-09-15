@@ -11,14 +11,14 @@
       we will resume it soon
     </p>
 
-    <a href="#" target="_blank" rel="noopener"
+    <!-- <a href="#" target="_blank" rel="noopener"
       ><button class="learn-more">
         <span class="circle" aria-hidden="true">
           <span class="icon arrow"></span>
         </span>
         <span class="button-text">Soon</span>
       </button></a
-    >
+    > -->
   </div>
 
   <!-- Link: https://www.getrevue.co/profile/jakubsedlacek04news -->

@@ -19,7 +19,7 @@
       "
     >
       <a
-        href="https://www.instagram.com/_kubq02_/"
+        href="https://www.instagram.com/jakubse_dev/"
         target="_blank"
         rel="noopener"
         ><i class="fab fa-instagram"></i

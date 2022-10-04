@@ -1,5 +1,10 @@
 <template>
-  <div class="text-right pt-40 pr-3 sm:pr-32">
+  <div
+    class="text-right pt-40 pr-3 sm:pr-32"
+    data-aos="fade-left"
+    data-aos-duration="500"
+    data-aos-delay="300"
+  >
     <h1 class="text-3xl font-semibold">📨 Newsletter</h1>
 
     <div class="w-72 py-3 right">
@@ -7,8 +12,8 @@
     </div>
 
     <p class="text-lg mt-4 pb-4 text-gray-300">
-      The newsletter is acutely out of order, <br>thank you for your understanding,
-      we will resume it soon
+      The newsletter is acutely out of order, <br />thank you for your
+      understanding, we will resume it soon
     </p>
 
     <!-- <a href="#" target="_blank" rel="noopener"

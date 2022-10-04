@@ -1,5 +1,10 @@
 <template>
-  <div class="sm:pl-32 pl-3 pt-40 pb-10">
+  <div
+    class="sm:pl-32 pl-3 pt-40 pb-10"
+    data-aos="fade-right"
+    data-aos-duration="500"
+    data-aos-delay="300"
+  >
     <h1 class="text-3xl font-semibold text-white">📞 Contact Me</h1>
 
     <div class="w-72 py-3">

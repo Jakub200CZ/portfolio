@@ -1,5 +1,11 @@
 <template>
-  <div id="contacts" class="text-center mt-5 btns pb-44">
+  <div
+    id="contacts"
+    class="text-center mt-5 btns pb-44"
+    data-aos="fade-up"
+    data-aos-anchor-placement="bottom-bottom"
+    data-aos-duration="900"
+  >
     <!--İnstagram Button -->
     <button
       id="instagram"

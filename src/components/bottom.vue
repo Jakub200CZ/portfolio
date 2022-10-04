@@ -14,6 +14,12 @@
       with ❤️
     </p>
 
-    <a href="mailto:support@jakubsedlacek.xyz" target="_blank" rel="noopener" class="text-gray-400 text-sm hover:text-gray-200 transition duration-150">support@jakubsedlacek.xyz</a>
+    <a
+      href="mailto:support@jakubsedlacek.xyz"
+      target="_blank"
+      rel="noopener"
+      class="text-gray-400 text-sm hover:text-gray-200 transition duration-150"
+      >support@jakubsedlacek.xyz</a
+    >
   </div>
 </template>

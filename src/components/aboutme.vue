@@ -1,5 +1,11 @@
 <template>
-  <div class="text-center pt-40" id="aboutme">
+  <div
+    class="text-center pt-40"
+    id="aboutme"
+    data-aos="flip-up"
+    data-aos-duration="500"
+    data-aos-delay="300"
+  >
     <h1 class="text-3xl font-semibold text-white">👨‍💻 About Me</h1>
 
     <div class="w-3/5 mx-auto my-3">

@@ -106,7 +106,7 @@
             <hr class="style-two" />
           </div>
 
-          <p class="mt-2 mb-4 text-gray-300">
+          <p class="mt-2 mb-4 text-gray-300" id="aboutme">
             Taking breaks at work is very important. All of us need energy, and
             that's what coffee most often gives us. <br />
             Programmers aka Coffee Lovers.

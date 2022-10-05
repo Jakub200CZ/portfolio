@@ -1,7 +1,6 @@
 <template>
   <div
     class="text-center pt-40"
-    id="aboutme"
     data-aos="flip-up"
     data-aos-duration="500"
     data-aos-delay="300"

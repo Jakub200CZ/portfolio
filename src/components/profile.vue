@@ -1,6 +1,7 @@
 <template >
   <p id="top"></p>
-  <div class="lg:pt-40 sm:pt-20" data-aos="zoom-out" data-aos-duration="1000">
+  <div class="lg:pt-40 sm:pt-20" >
+    <!-- data-aos="zoom-out" data-aos-duration="1000" -->
     <img
       class="w-60 rounded-full mx-auto p-10 filter drop-shadow-2xl"
       src="../assets/favicon.webp"

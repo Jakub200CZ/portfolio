@@ -6,8 +6,8 @@
       class="w-60 rounded-full mx-auto p-10 filter drop-shadow-2xl"
       src="../assets/favicon.webp"
       alt="ProfilePic"
-      data-aos="zoom-in"
     />
+      <!-- data-aos="zoom-in" -->
 
     <h1 class="text-center text-4xl font-bold">Jakub Sedláček</h1>
 

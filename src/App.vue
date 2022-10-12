@@ -1,6 +1,6 @@
 <template>
   <div class="bgG text-lg">
-    <profile data-aos="zoom-out" data-aos-duration="1000" />
+    <profile />
 
     <buttons />
 

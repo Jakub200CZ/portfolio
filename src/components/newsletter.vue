@@ -117,4 +117,12 @@ button:hover .circle .icon.arrow {
 button:hover .button-text {
   color: #121212;
 }
+
+@media screen and (max-width: 640px) {
+  .right {
+    position: absolute;
+    right: 0;
+    padding-right: 12px;
+  }
+}
 </style>

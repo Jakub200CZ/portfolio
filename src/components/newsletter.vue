@@ -5,15 +5,14 @@
     data-aos-duration="500"
     data-aos-delay="300"
   >
-    <h1 class="text-3xl font-semibold">📨 Newsletter</h1>
+    <h1 class="text-3xl font-semibold">⚙️ Projects</h1>
 
     <div class="w-72 py-3 right">
       <hr class="style-three" />
     </div>
 
     <p class="text-lg mt-4 pb-4 text-gray-300">
-      The newsletter is acutely out of order, <br />thank you for your
-      understanding, we will resume it soon
+      All projects can be found on github with documentation.
     </p>
 
     <!-- <a href="#" target="_blank" rel="noopener"

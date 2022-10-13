@@ -24,12 +24,12 @@
         text-2xl
       "
     >
-      <a
+      <i class="fab fa-instagram"><a
         href="https://www.instagram.com/jakubse_dev/"
         target="_blank"
         rel="noopener"
-        ><i class="fab fa-instagram"></i
-      ></a>
+        ></a></i
+      >
     </button>
 
     <!--Twitter Button -->
@@ -133,5 +133,11 @@
 .button {
   background-color: white;
   color: black;
+}
+
+i {
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 </style>

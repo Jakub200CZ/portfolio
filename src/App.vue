@@ -1,5 +1,5 @@
 <template>
-  <div class="bgG text-lg">
+  <div class="bgG text-lg bodyDV">
     <profile />
 
     <buttons />
@@ -48,8 +48,11 @@ i {
   overflow: hidden;
 }
 
-* {
+.bodyDV {
   overflow-x: hidden;
+}
+
+* {
   font-family: "Nunito", sans-serif;
   color: #fff;
   scroll-behavior: smooth;

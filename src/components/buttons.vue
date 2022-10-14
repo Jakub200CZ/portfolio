@@ -32,6 +32,32 @@
       >
     </button>
 
+        <!--İnstagram Button -->
+    <button
+      id="instagram"
+      class="
+        mx-1
+        transform
+        hover:-translate-y-3
+        border-2
+        w-12
+        h-12
+        rounded-full
+        duration-500
+        text-rose-600
+        border-rose-600
+        hover:bg-rose-600
+        text-2xl
+      "
+    >
+      <i class="fab fa-linkedin"><a
+        href="https://www.instagram.com/jakubse_dev/"
+        target="_blank"
+        rel="noopener"
+        ></a></i
+      >
+    </button>
+
     <!--Twitter Button -->
     <button
       id="twitter"

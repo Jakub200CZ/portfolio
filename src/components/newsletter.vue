@@ -51,7 +51,6 @@
   font-size: 18px;
   height: 2em;
   letter-spacing: 0.05em;
-  border-radius: 0.8em;
   border: none;
   background: linear-gradient(to right, #2e2e2e, #343434);
   color: ghostwhite;

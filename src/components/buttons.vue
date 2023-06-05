@@ -44,9 +44,9 @@
         h-12
         rounded-full
         duration-500
-        text-rose-600
-        border-rose-600
-        hover:bg-rose-600
+        text-blue-700
+        border-blue-700
+        hover:bg-blue-700
         text-2xl
       "
     >
